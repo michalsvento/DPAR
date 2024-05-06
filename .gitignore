@@ -1,0 +1,5 @@
+# Ignore experiments and wandb outputs
+
+wandb/
+outputs/
+experiments/
